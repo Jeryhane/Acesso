@@ -1,0 +1,31 @@
+C:\Users\etec\Downloads\Acesso\Acesso\bin\Debug\Acesso.exe.config
+C:\Users\etec\Downloads\Acesso\Acesso\bin\Debug\Acesso.exe
+C:\Users\etec\Downloads\Acesso\Acesso\bin\Debug\Acesso.pdb
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.csprojResolveAssemblyReference.cache
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.Form1.resources
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.Properties.Resources.resources
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.csproj.GenerateResource.Cache
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.exe
+C:\Users\etec\Downloads\Acesso\Acesso\obj\Debug\Acesso.pdb
+F:\Acesso\Acesso\bin\Debug\Acesso.exe.config
+F:\Acesso\Acesso\obj\Debug\Acesso.exe
+F:\Acesso\Acesso\obj\Debug\Acesso.pdb
+F:\Acesso\Acesso\obj\Debug\Acesso.csprojResolveAssemblyReference.cache
+F:\Acesso\Acesso\obj\Debug\Acesso.Form1.resources
+F:\Acesso\Acesso\obj\Debug\Acesso.Properties.Resources.resources
+F:\Acesso\Acesso\obj\Debug\Acesso.csproj.GenerateResource.Cache
+F:\Acesso\Acesso\bin\Debug\Acesso.exe
+F:\Acesso\Acesso\bin\Debug\Acesso.pdb
+F:\Backup\Informatica 3\PC\Acesso\Acesso\bin\Debug\Acesso.exe.config
+F:\Backup\Informatica 3\PC\Acesso\Acesso\obj\Debug\Acesso.exe
+F:\Backup\Informatica 3\PC\Acesso\Acesso\obj\Debug\Acesso.pdb
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.exe
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.pdb
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\bin\Debug\Acesso.exe.config
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\bin\Debug\Acesso.exe
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\bin\Debug\Acesso.pdb
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.csproj.AssemblyReference.cache
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.Form1.resources
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.Properties.Resources.resources
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.csproj.GenerateResource.cache
+C:\Users\Windows7\Downloads\Exemplos\Acesso\Acesso\obj\Debug\Acesso.csproj.CoreCompileInputs.cache
